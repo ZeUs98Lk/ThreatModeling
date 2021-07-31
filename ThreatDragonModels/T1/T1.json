@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "T1",
+    "owner": "it19178332",
+    "description": "Test 1"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "D1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
